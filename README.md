@@ -1,4 +1,4 @@
-# MACHINE LEARNING 👨‍🏫⚙️
+# 👨‍🏫⚙️ MACHINE LEARNING 
 
 ## Developer :👥
 
